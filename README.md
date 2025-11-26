@@ -4,7 +4,7 @@
 
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Science+Gothic&pause=1000&color=134155D7&center=true&width=435&lines=Python+Developer;Aspiring+MLOps+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Science+Gothic&pause=1000&color=134155D7&center=true&width=435&lines=Python+Developer;Data+Engineer;Aspiring+MLOps+Engineer" alt="Typing SVG" />
   </a>
 </h3>
 
@@ -39,13 +39,15 @@ Based in Moscow, Russia.
 
 ---
 
-### 📂 Featured Projects (Добавить!)
+### 📂 Featured Projects
 
-- **[Foodgram](https://github.com/Androoj/foodgram-project-react)** – Diploma project (Yandex Practicum)  
+- **[YaCut](https://github.com/Androoj/async-yacut)** – URL shortener with file upload to Yandex Disk  
+  _Flask • SQLAlchemy • SQLite • aiohttp • REST API • OpenAPI_
+- **[Foodgram](https://github.com/Androoj/foodgram)** – Diploma project (Yandex Practicum)  
   _Django + DRF + Docker + CI/CD + PostgreSQL + Nginx + React frontend (integrated)_  
 - **[YaMDb](https://github.com/Androoj/api_yamdb)** – Full-featured REST API with permissions, throttling, and documentation  
 - **[Kittygram](https://github.com/Androoj/kittygram_final)** – Containerized Django app with automated deployment via GitHub Actions  
-- **[ML Salary Predictor](https://github.com/...)** – Final Netology project: ML model to estimate salaries from job descriptions *(link to be added)*
+- **[ML Salary Predictor](https://github.com/Androoj/ml_project_netology)** – Final Netology project: ML model to estimate salaries from job descriptions
 
 ---
 
@@ -55,6 +57,8 @@ Based in Moscow, Russia.
   _13 projects • Django • DRF • Docker • CI/CD • Async • Flask_
 - **Data Science** — Netology (2024)  
   _SQL • Pandas • Statistics • ML • Data visualization_
+
+---
 
 ---
 
